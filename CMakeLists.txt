@@ -23,3 +23,4 @@ add_executable(inference_app main.cpp ${SOURCES})
 install(TARGETS inference_app DESTINATION bin)
 install(FILES include/inference_engine.h DESTINATION include)
 // Update on 2023-05-01 00:00:00 - 260
+// Update on 2023-08-03 00:00:00 - 290
